@@ -1,0 +1,16 @@
+* {
+	font-family: arial;
+	font-size: 8pt;
+}
+h2{font-size: 14pt; margin:5px; align:left;color:#8E5216;}
+a.paginacion{ color:#000000; text-decoration:none;}
+a.paginacionActual{ font-weight:bold;}
+.err{color:#AA0000;}
+.red{color:#880000;}
+.ok{color:#007700;}
+.none{text-decoration:none;}
+.msj{font-size: 9pt; align:center; font-weight:bold; margin-top:0px; margin-bottom:5px;}
+.blanco{font-size: 9pt; align:center; font-weight:bold; margin-top:0px; margin-bottom:5px; color:#FFFFFF;}
+.azulOb {
+	color: #466284;
+}
